@@ -1,0 +1,60 @@
+{
+  "category": "education",
+  "created_date": "2025-09-15T22:48:58.269233",
+  "default_ports": [
+    80,
+    443
+  ],
+  "dependencies": [],
+  "description": "moodle is a free and open-source learning platform. Moodle provides open source learning management system",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/education/moodle",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/education/moodle",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:58.269259",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "moodle",
+  "repository_url": "https://github.com/howtomgr/moodle",
+  "spec_version": "2.0",
+  "subcategory": "education",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "education",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "moodle Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/education/moodle"
+}
